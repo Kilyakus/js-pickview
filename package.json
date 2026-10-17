@@ -1,0 +1,19 @@
+{
+	"name": "@kilyakus/js-pickview",
+	"productName": "pickview",
+	"version": "1.2610.00717",
+	"description": "Universal interactive media component and lazy-load module: Canvas thumbnails for images and video, instant posters, silent hover playback, link previews and HoldView fallbacks.",
+	"main": "js/pickview.obf.js",
+	"author": "Aleksandr Kilyakov (@Kilyakus)",
+	"authorUsername": "Kilyakus",
+	"license": "CC-BY-NC-4.0",
+	"licenseLegal": "Attribution-NonCommercial 4.0 International",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kilyakus/js-pickview.git"
+	},
+	"build": {},
+	"publishConfig": {
+		"access": "public"
+	}
+}
